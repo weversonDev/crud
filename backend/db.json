@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Ana Francisca",
+      "email": "anafrancisca@loja.com.br",
+      "id": 1
+    },
+    {
+      "name": "Valentina Ribeiro Costa",
+      "email": "valeribeiro@empresa.com",
+      "id": 2
+    },
+    {
+      "name": "Matheus Pereira",
+      "email": "mpeireira@dev.com.br",
+      "id": 3
+    }
+  ]
+}
